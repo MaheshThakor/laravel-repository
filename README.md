@@ -22,3 +22,4 @@
 - Register In app\Providers\AppServiceProvider.php in "register" Function
 - Use Class In Controllers
 # laravel-repository
+# laravel-repository
